@@ -1,0 +1,23 @@
+#Project
+GoogleVisionAPI.properties
+
+
+# GENERIC
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# SBT
+boot
+lib_managed
+src_managed
+test-output
+target
+.history
+project/target
+project/project/target
+
+# Mac
+.DS_Store
